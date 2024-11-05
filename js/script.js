@@ -1,1 +1,1 @@
-console.long("hola Dalto");
+console.long("que miras papa");
