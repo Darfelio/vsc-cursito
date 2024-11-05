@@ -1,1 +1,1 @@
-console.long("hola");
+console.long("hola Dalto");
